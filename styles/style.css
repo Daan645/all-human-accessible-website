@@ -30,7 +30,26 @@ body {
     100% {
       background-position: 1000px 200px, 1200px 300px, 1100px 250px;
     }
-
+}
+/* Jesse */
+.algemeen{
+    clip-path: polygon(0% 0%, 100% 0%, 0% 400%);
+    overflow: visible;
+    background-color: var(--darkgrey);
+    color: var(--white);
+    height: 300px;
+}
+.about{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 400%);;
+    overflow: visible;
+    background-color: var(--darkgrey);
+    color: var(--white);
+    height: 300px;
+}
+#meerWelkom{
+    display: none;
+}
+/* ruben */
 .general-article {
     padding: 2em 1em;
     color: var(--green);
@@ -100,4 +119,8 @@ body {
     object-fit: cover;
 }
 
+@media screen and (max-width: 600px){
+
+
+}
  
