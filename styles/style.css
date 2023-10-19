@@ -23,6 +23,14 @@ body {
     animation: wind 20s linear infinite;
 }
 
+@keyframes wind{
+    0% {
+      background-position: 0 200px, 0 300px, 100px 250px;
+    }
+    100% {
+      background-position: 1000px 200px, 1200px 300px, 1100px 250px;
+    }
+
 .general-article {
     padding: 2em 1em;
     color: var(--green);
