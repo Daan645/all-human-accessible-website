@@ -11,6 +11,10 @@
     box-sizing: border-box;
     margin: 0;
 }
+a{
+    text-decoration: none;
+    color: var(--black);
+  }
 
 body {
     font-family: 'Open Sans', sans-serif;
