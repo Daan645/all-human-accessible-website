@@ -1,8 +1,9 @@
 :root {
     --white: #fff;
     --black: #000;
-    --blue: #41d5fa;
-    --green: #3ade76;
+    --blue: #7FAEC5;
+    --darkblue: #384B61;
+    --green: #4ECD5D;
     --red: #fa611f;
     --darkgrey: #181818;
 }
@@ -50,7 +51,7 @@ body {
         max-width: 1232px;
         display: flex;
         flex-direction: row;
-        justify-content: flex-start;
+        justify-content: space-between;
         align-items: center;
         gap: 6em;
     }
