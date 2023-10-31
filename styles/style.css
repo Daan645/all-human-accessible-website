@@ -1333,7 +1333,7 @@ input:checked + .slider:before {
 
 .general-article {
 
-  padding: 2em 1em;
+  padding: 1em 1em;
 
   text-align: center;
 
@@ -1419,7 +1419,7 @@ input:checked + .slider:before {
 
   justify-content: space-between;
 
-  padding: 0 6px 64px 6px;
+  padding: 0 100px 100px 100px;
 
 }
 
