@@ -1335,6 +1335,10 @@ input:checked + .slider:before {
 
 }
 
+#header-page-image{
+  max-width: 250px;
+}
+
 
 
 #header-page-title h1 {
