@@ -218,11 +218,12 @@ header{
     padding: 2em 1em !important;
 
     gap: 4em;
+  }  
+    h2{
+      white-space: normal !important;
+    }
 
-
-
-  }
-
+  
 
 
 
