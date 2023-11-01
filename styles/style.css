@@ -1824,6 +1824,15 @@ justify-content: center;
 }
 
 
+.contact{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+width: 100%;
+  align-items: center;
+}
+
 
 .section-header {
 
@@ -1834,6 +1843,7 @@ justify-content: center;
   text-align: center;
 
   color: var(--green);
+
 
 }
 
