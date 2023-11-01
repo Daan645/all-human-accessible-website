@@ -575,6 +575,8 @@ h2 {
 
   color: var(--darkblue);
 
+  white-space: nowrap;
+
 }
 
 
@@ -796,8 +798,13 @@ header nav a:hover {
   .dark-mode-head li{
 
     background-color: var(--darkgrey) !important;
-
   }
+
+  h2{    
+    font-size: 1.5em;
+  }
+
+  
 
 }
 
@@ -1525,7 +1532,6 @@ justify-content: center;
  /* The actual timeline (the vertical ruler) */
  .timeline {
    grid-area: timeline;
-   width: 100em;
 
    position: relative;
 
@@ -2141,7 +2147,6 @@ width: 100%;
 
 
  @media screen and (min-width: 320px) and (max-width: 600px){
-
 
 
 
