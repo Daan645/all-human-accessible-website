@@ -1833,11 +1833,10 @@ justify-content: center;
 
 
 .contact{
-
   display: flex;
   flex-direction: column;
   justify-content: center;
-width: 100%;
+  width: 100%;
   align-items: center;
 }
 
@@ -1887,7 +1886,7 @@ width: 100%;
 
 .contact-info {
 
-  width: 50%;
+  width: 40%;
 
 }
 
@@ -1969,7 +1968,7 @@ width: 100%;
 
   padding: 40px;
 
-  width: 45%;
+  width: 60%;
 
   padding-bottom: 20px;
 
