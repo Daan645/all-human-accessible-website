@@ -1204,6 +1204,7 @@ input:checked + .slider:before {
   display: grid;
   gap: 4em;
   padding: 0px 60px;
+
 }
 
 .general{
@@ -1313,7 +1314,7 @@ input:checked + .slider:before {
 #header-container {
 
 
-  padding: 20px 60px;
+  padding: 150px 60px 0;
 
   display: grid;
 
